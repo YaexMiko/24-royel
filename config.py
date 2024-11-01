@@ -29,7 +29,7 @@ PORT = os.environ.get("PORT", "4680")
 
 #Database 
 DB_URI = "mongodb+srv://trisun62767:Royal123@cluster0.g5ahoeq.mongodb.net"
-DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
+DB_NAME = os.environ.get("DATABASE_NAME", "SUPERHERE-DB")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "d9914dac32a78b83124fc07fc89134083125d8b1")
