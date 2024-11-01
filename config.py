@@ -19,20 +19,20 @@ APP_ID = int(os.environ.get("APP_ID", "29759992"))
 API_HASH = os.environ.get("API_HASH", "61f150cdca64b2916fa499d107393140")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002038942522"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002005073534"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1345506970"))
 
 #Port
-PORT = os.environ.get("PORT", "4180")
+PORT = os.environ.get("PORT", "4680")
 
 #Database 
-DB_URI = "mongodb+srv://dextin:zaxscd123@leakedjalwa.9yauwbt.mongodb.net/?retryWrites=true&w=majority&appName=LeakedJalwa"
+DB_URI = "mongodb+srv://trisun62767:Royal123@cluster0.g5ahoeq.mongodb.net"
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "1c97583b9a15f5af9134df1c5fdd882e8059ebcd")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "d9914dac32a78b83124fc07fc89134083125d8b1")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","gojfsi/2")
